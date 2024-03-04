@@ -2,6 +2,8 @@
 
 Bootstra AI Jailbreak for iOS 17 - iOS 14 is the world's first AI-powered jailbreaking tool, complete with jailbreak app managers developed specifically for the latest iOS versions. With Bootstra AI Jailbreak, users can effortlessly add Bootstra AI Jailbreak Prompts and install the best jailbreak tweaks, repo extractors, themes, iOS launchers, and third-party apps.
 
+![Cover Image](https://github.com/BootstraAI/bootstra-ai/blob/main/Install%20Bootstra%20AI%20iOS%20jailbreak%20AI%20tool%20for%20jailbreaking%20iOS%2015%2C%20iOS%2016%2C%20or%20iOS%2017%20iPhone%20iPad.png)
+
 ## Download Bootstra AI Jailbreak
 
 You can download the latest version of Bootstra AI Jailbreak tool from here:
