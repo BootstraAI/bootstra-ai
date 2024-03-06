@@ -70,6 +70,18 @@ Jailbreak Repo Extractor Prompts empower iOS users to customize their devices be
 
 **Adding Repo Extractors:** Easily add popular repo extractors in the Bootstra AI app to jailbreak iOS 17 – iOS 17.4 on the latest iPhone models. Unlock new possibilities and explore customization with Repo Extractor Prompts!
 
+## Bootstra AI Jailbreak for TrollStore and TrollStore 2
+
+Bootstra AI Jailbreak extends the capabilities of TrollStore, a remarkable utility that empowers users to permanently sign and install any .ipa or .tipa file as an app on their iPhones or iPads. With the support of Bootstra AI Jailbreak, TrollStore offers a seamless experience for iOS customization.
+
+### Key Features
+
+- **Perma-Signing**: Install apps directly from .ipa files, ensuring they remain signed indefinitely.
+- **Entitlement Flexibility**: Customize your apps extensively by leveraging a wide range of entitlements.
+- **No Computer Required**: Unlike traditional jailbreaking methods, TrollStore operates without the need for a computer during installation.
+
+Explore the best TrollStore AppsStore, where you’ll find a curated collection of apps, tweaks, and enhancements. Whether you’re a seasoned jailbreaker or a curious user, Bootstra AI Jailbreak enhances your iOS experience.
+
 ## Bootstra AI: Your Ultimate Jailbreak Assistant
 
 Tired of the jailbreaking hassle? Bootstra AI is here to simplify it for you! 📱🔓
