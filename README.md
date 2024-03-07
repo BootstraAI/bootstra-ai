@@ -37,6 +37,8 @@ Bootstra AI simplifies the jailbreaking process into four straightforward steps:
 
 Bootstra AI offers a curated selection of Jailbreak Prompts designed to elevate the iOS user experience:
 
+![Best Bootstra AI Jailbreak Prompts](https://github.com/BootstraAI/bootstra-ai/blob/main/Download%20Bootstra%20AI%20Jailbreak%20Tool%20-Best%20Bootstra%20AI%20Jailbreak%20Prompts.png)
+
 - **Virtual Jailbreak AI Prompts:** Experience jailbreak-like features without the need for a physical computer, providing unprecedented convenience and flexibility.
 - **App Manager AI Prompts:** Effortlessly manage apps on both jailbroken and non-jailbroken devices, enhancing organization and accessibility.
 - **Trending AppStore AI Prompts:** Stay informed about the latest IPA apps available in various app stores, ensuring access to the most popular and sought-after applications.
