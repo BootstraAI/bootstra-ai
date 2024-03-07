@@ -76,6 +76,9 @@ Jailbreak Repo Extractor Prompts empower iOS users to customize their devices be
 
 Bootstra AI Jailbreak extends the capabilities of TrollStore, a remarkable utility that empowers users to permanently sign and install any .ipa or .tipa file as an app on their iPhones or iPads. With the support of Bootstra AI Jailbreak TrollStore AppsStore offers a seamless experience for iOS customization.
 
+![Bootstra AI Jailbreak for TrollStore and TrollStore 2](https://github.com/BootstraAI/bootstra-ai/blob/main/Bootstra%20AI%20Jailbreak%20for%20TrollStore%20and%20TrollStore%202.png)
+
+
 - **Perma-Signing**: Install apps directly from .ipa files, ensuring they remain signed indefinitely.
 - **Entitlement Flexibility**: Customize your apps extensively by leveraging a wide range of entitlements.
 - **No Computer Required**: Unlike traditional jailbreaking methods, TrollStore operates without the need for a computer during installation.
